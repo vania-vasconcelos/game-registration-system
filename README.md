@@ -1,3 +1,3 @@
-<h1> game registration system </h1>
+<h1> Game Registration System </h1>
 
 >status: developing
